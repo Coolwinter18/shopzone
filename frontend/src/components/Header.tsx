@@ -1,7 +1,7 @@
 const Header = () => {
     return (
     <nav>
-        <p>Hola</p>
+        <p>Header</p>
     </nav>
 )}
 export default Header;
